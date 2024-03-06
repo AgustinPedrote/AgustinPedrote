@@ -38,7 +38,7 @@
 
 <hr>
 <Br>
-<h1>📈 Github_Stats</h1>
+<h1> Github_Stats! 📈</h1>
 <Br>
 
 | ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=agucadiz&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agucadiz&theme=react)                                                                                                           |
