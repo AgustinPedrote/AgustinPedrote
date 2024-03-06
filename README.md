@@ -35,4 +35,18 @@
 <a href="https://www.linkedin.com/in/agust%C3%ADn-pedrote-bejarano-69966b1b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:agustinpedrote82@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
+
 <hr>
+<Br>
+<h1>📈 Github_Stats</h1>
+<Br>
+
+| ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=agucadiz&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agucadiz&theme=react)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agucadiz&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=agucadiz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
+
+<div align="left">
+
+![](https://komarev.com/ghpvc/?username=agucadiz&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+
+</div>
