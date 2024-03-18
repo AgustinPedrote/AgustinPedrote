@@ -41,12 +41,12 @@
 <h1> Github_Stats! 📈</h1>
 <Br>
 
-| ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=agucadiz&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agucadiz&theme=react)                                                                                                           |
+| ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=AgustinPedrote&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgustinPedrote&theme=react)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agucadiz&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=agucadiz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinPedrote&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AgustinPedrote&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
 
 <div align="left">
 
-![](https://komarev.com/ghpvc/?username=agucadiz&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=AgustinPedrote&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 </div>
